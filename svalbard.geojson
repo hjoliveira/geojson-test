@@ -1,4 +1,6 @@
-
+{
+    "type": "FeatureCollection",
+    "features": [
         {
             "type": "Feature",
             "geometry": {
@@ -168,11 +170,7 @@
                 "stroke": "0000ff",
                 "stroke-opacity": 1,
                 "fill-opacity": 0
-            },
-            "crs": {
-                "type": "name",
-                "properties": {
-                    "name": "urn:ogc:def:crs:EPSG:3995"
-                 }
             }
         }
+    ]
+}
