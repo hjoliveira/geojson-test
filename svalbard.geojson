@@ -166,10 +166,7 @@
                 ]
             },
             "properties": {
-                "name": "Svalbard",
-                "stroke": "0000ff",
-                "stroke-opacity": 1,
-                "fill-opacity": 0
+                "name": "Svalbard"
             }
         }
     ]
