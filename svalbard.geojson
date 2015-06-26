@@ -167,6 +167,12 @@
             },
             "properties": {
                 "name": "Svalbard"
+            },
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:EPSG:"
+                 }
             }
         }
     ]
